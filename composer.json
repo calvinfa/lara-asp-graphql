@@ -17,6 +17,7 @@
     "ext-mbstring": "*",
     "laravel/framework": "^7.0",
     "nuwave/lighthouse": "^5.4",
+    "calvinfa/lara-asp-core": "self.version",
     "phpdocumentor/reflection-docblock": "^5.2"
   },
   "require-dev": {
