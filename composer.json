@@ -1,6 +1,6 @@
 {
-  "name": "lastdragon-ru/lara-asp-graphql",
-  "homepage": "https://github.com/LastDragon-ru/lara-asp",
+  "name": "calvinfa/lara-asp-graphql",
+  "homepage": "https://github.com/calvinfa/lara-asp",
   "description": "The Awesome Set of Packages for Laravel - The GraphQL Extensions.",
   "readme": "README.md",
   "license": "MIT",
@@ -12,24 +12,17 @@
     "lighthouse-php",
     "php"
   ],
-  "support": {
-    "issues": "https://github.com/LastDragon-ru/lara-asp/issues",
-    "source": "https://github.com/LastDragon-ru/lara-asp",
-    "forum": "https://github.com/LastDragon-ru/lara-asp/discussions"
-  },
   "require": {
     "php": ">=7.4.1",
     "ext-mbstring": "*",
     "laravel/framework": "^7.0",
     "nuwave/lighthouse": "^5.4",
-    "lastdragon-ru/lara-asp-core": "self.version",
     "phpdocumentor/reflection-docblock": "^5.2"
   },
   "require-dev": {
     "ext-pdo_sqlite": "*",
     "mockery/mockery": "^1.4",
     "phpunit/phpunit": "^9.5.0",
-    "lastdragon-ru/lara-asp-testing": "self.version",
     "orchestra/testbench": "^6.9.0"
   },
   "suggest": {
